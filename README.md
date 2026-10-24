@@ -9,13 +9,22 @@
 
 I'm learning software development and exploring how programming, artificial intelligence, and technology can improve healthcare.
 
-## 🛠️ Technologies I've Worked With
+## 🛠️ Tech Stack
 
-Programming: C++, Java, Python, C, SQL
+### Programming Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,c" />
+</p>
 
-Databases: MySQL
+### Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql" />
+</p>
 
-Development Tools: Git, GitHub, VS Code
+### Development Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
 
 ## 🎯 Where I Want to Go
 
