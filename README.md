@@ -9,7 +9,7 @@
 
 I'm learning software development and exploring how programming, artificial intelligence, and technology can improve healthcare.
 
-🛠️ Technologies I've Worked With
+## 🛠️ Technologies I've Worked With
 
 Programming: C++, Java, Python, C, SQL
 
@@ -17,7 +17,7 @@ Databases: MySQL
 
 Development Tools: Git, GitHub, VS Code
 
-🎯 Where I Want to Go
+## 🎯 Where I Want to Go
 
 I'm interested in exploring software engineering, healthcare technology, and eventually artificial intelligence applications in medicine.
 
