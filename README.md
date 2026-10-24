@@ -5,7 +5,7 @@
 🎓 BSc Nursing — McGill University
 🎓 Computer Science — Concordia University
 📍 Montréal, Canada  
-💻 Passionate about Learning about the Medical Field and How Computers Work and a little bit of Finance on the side
+💻 Curious about software engineering, medical technology, and the intersection of healthcare and computing.
 
 I'm learning software development and exploring how programming, artificial intelligence, and technology can improve healthcare.
 
