@@ -32,4 +32,4 @@ I'm interested in exploring software engineering, healthcare technology, and eve
 
 My goal is to combine my clinical experience with computer science to develop meaningful solutions for healthcare.
 
-Learning one project, one bug, and one commit at a time.
+*Learning one project, one bug, and one commit at a time.*
