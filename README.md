@@ -4,5 +4,5 @@
 
 🎓 Nursing @ McGill University / Computer Science Student @ Concordia University  
 📍 Montréal, Canada  
-💻 Passionate about Learning about the Medical Field and How Computers Work 
+💻 Passionate about Learning about the Medical Field and How Computers Work and a little bit of Finance on the side
 
